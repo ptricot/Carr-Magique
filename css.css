@@ -1,0 +1,29 @@
+body {
+	background-color:#111111;
+	color:#c10b0b;
+	}
+table {
+	margin:0 auto;
+	}
+td.cell {
+	text-align:center;
+	border:5px solid black;
+	overflow:hidden;
+	}
+p {
+	font-size:2vw;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	}
+button {
+	background-color:#333333;
+	color:#a10b0b;
+	border:none;
+	padding: 20px 20px;
+	}
+img {
+	width:100%;
+	}
+input {
+	background-color:#666666;
+	border:0px;
+	}
